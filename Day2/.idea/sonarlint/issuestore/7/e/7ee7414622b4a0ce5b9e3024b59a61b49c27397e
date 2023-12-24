@@ -1,0 +1,18 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "green" 3 times.(¾âáÁùÿÿÿÿ8Â“ïÈÂ1
+c
+java:S21849"FCast one of the operands of this multiplication operation to a "long".(ÌÄÿ­8Å“ïÈÂ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8Ÿ”ïÈÂ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8£”ïÈÂ1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(šïİ®şÿÿÿÿ8£”ïÈÂ1
+n
+java:S6204&"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œòø8¤”ïÈÂ1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(¿íæüÿÿÿÿ8¥”ïÈÂ1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(¼Â¼¯8¥”ïÈÂ1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(§™¦¦ûÿÿÿÿ8¦”ïÈÂ1
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(¨—·ûÿÿÿÿ8„¬ğÈÂ1
+V
+java:S1128"4Remove this unused import 'java.util.PriorityQueue'.(ÆãÑşøÿÿÿÿ8¦”ïÈÂ1

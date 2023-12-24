@@ -1,0 +1,12 @@
+
+H
+java:S1481"+Remove this unused "result" local variable.(ƒ¾¡ğ8Û­âšÃ1
+`
+java:S1612">Replace this lambda with method reference 'Integer::parseInt'.(è¥¸øÿÿÿÿ8ß­âšÃ1
+`
+java:S1612">Replace this lambda with method reference 'Integer::parseInt'.(òšÎÄøÿÿÿÿ8à­âšÃ1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.( ‚¢ûÿÿÿÿ8à­âšÃ1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¨Ë”âùÿÿÿÿ8à­âšÃ1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(•ôó8á­âšÃ1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8â­âšÃ1

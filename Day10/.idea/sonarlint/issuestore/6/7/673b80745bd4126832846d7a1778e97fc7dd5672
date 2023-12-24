@@ -1,0 +1,21 @@
+
+w
+java:S1104"UMake character a static final constant or non-public and provide accessors if needed.(½Ë±¸şÿÿÿÿ8Ùèª’Å1
+s
+java:S1104"WMake connections a static final constant or non-public and provide accessors if needed.(³ÿ\8Ùèª’Å1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñ—Åùÿÿÿÿ8Ûèª’Å1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷ùü£üÿÿÿÿ8Ûèª’Å1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•ğÜ…8Ûèª’Å1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÅóÇÍúÿÿÿÿ8Ûèª’Å1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶Ë“§ûÿÿÿÿ8Ûèª’Å1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(å˜ÿ8Ûèª’Å1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÍîË8Ûèª’Å1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ú×ŞÑ8Ûèª’Å1
+E
+java:S3066"#Lower the visibility of this field.(½Ë±¸şÿÿÿÿ8Üèª’Å1
+?
+java:S3066"#Lower the visibility of this field.(³ÿ\8Üèª’Å1
+>
+java:S1116#"Remove this empty statement.(ôŸìúÿÿÿÿ8İèª’Å1
+J
+java:S1128	".Remove this unused import 'java.util.HashSet'.(Ê‚êX8Şèª’Å1
