@@ -1,0 +1,26 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8Òï€°Ä1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8ñï€°Ä1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ø÷•¡8ñï€°Ä1
+t
+java:S6204$"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¦É¿±úÿÿÿÿ8òï€°Ä1
+W
+java:S6397$"5Replace this character class by the character itself.(¦É¿±úÿÿÿÿ8óï€°Ä1
+^
+java:S1612$"<Replace this lambda with method reference 'Long::parseLong'.(¦É¿±úÿÿÿÿ8óï€°Ä1
+o
+java:S6204+"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ýæÒ”8ôï€°Ä1
+R
+java:S6397+"5Replace this character class by the character itself.(ýæÒ”8õï€°Ä1
+Y
+java:S1612+"<Replace this lambda with method reference 'Long::parseLong'.(ýæÒ”8õï€°Ä1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(€™Ÿ½úÿÿÿÿ8öï€°Ä1
+t
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÅÇƒ¼ÿÿÿÿÿ8öï€°Ä1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ùï€°Ä1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8úï€°Ä1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8úï€°Ä1

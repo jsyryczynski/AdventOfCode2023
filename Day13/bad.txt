@@ -1,0 +1,201 @@
+Input 0
+200
+Input 1
+2
+Input 2
+700
+Input 3
+200
+Input 4
+1200
+Input 5
+0
+Input 6
+200
+Input 7
+5
+Input 8
+0
+Input 9
+1100
+Input 10
+200
+Input 11
+800
+Input 12
+1400
+Input 13
+800
+Input 14
+200
+Input 15
+0
+Input 16
+1
+Input 17
+0
+Input 18
+500
+Input 19
+100
+Input 20
+300
+Input 21
+7
+Input 22
+100
+Input 23
+13
+Input 24
+300
+Input 25
+1
+Input 26
+3
+Input 27
+100
+Input 28
+200
+Input 29
+0
+Input 30
+100
+Input 31
+12
+Input 32
+100
+Input 33
+200
+Input 34
+0
+Input 35
+1000
+Input 36
+300
+Input 37
+100
+Input 38
+0
+Input 39
+100
+Input 40
+300
+Input 41
+400
+Input 42
+3
+Input 43
+5
+Input 44
+800
+Input 45
+0
+Input 46
+8
+Input 47
+1200
+Input 48
+100
+Input 49
+100
+Input 50
+3
+Input 51
+5
+Input 52
+6
+Input 53
+0
+Input 54
+500
+Input 55
+6
+Input 56
+5
+Input 57
+10
+Input 58
+0
+Input 59
+1100
+Input 60
+300
+Input 61
+700
+Input 62
+0
+Input 63
+900
+Input 64
+0
+Input 65
+11
+Input 66
+700
+Input 67
+500
+Input 68
+1100
+Input 69
+5
+Input 70
+1
+Input 71
+1200
+Input 72
+1
+Input 73
+700
+Input 74
+700
+Input 75
+1100
+Input 76
+0
+Input 77
+900
+Input 78
+13
+Input 79
+200
+Input 80
+0
+Input 81
+5
+Input 82
+1400
+Input 83
+1100
+Input 84
+500
+Input 85
+7
+Input 86
+500
+Input 87
+100
+Input 88
+100
+Input 89
+13
+Input 90
+0
+Input 91
+4
+Input 92
+500
+Input 93
+1
+Input 94
+1100
+Input 95
+400
+Input 96
+2
+Input 97
+800
+Input 98
+7
+Input 99
+12
+totalSum 30677

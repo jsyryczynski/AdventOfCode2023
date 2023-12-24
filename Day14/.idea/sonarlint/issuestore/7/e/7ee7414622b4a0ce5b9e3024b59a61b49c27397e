@@ -1,0 +1,40 @@
+
+s
+java:S1104"QMake debug a static final constant or non-public and provide accessors if needed.(­Â—ùûÿÿÿÿ8µî³ëÉ1
+n
+java:S1104"QMake part2 a static final constant or non-public and provide accessors if needed.(ÃÏÍü8¶î³ëÉ1
+M
+java:S1444"+Make this "public static debug" field final(­Â—ùûÿÿÿÿ8¶î³ëÉ1
+H
+java:S1444"+Make this "public static part2" field final(ÃÏÍü8¶î³ëÉ1
+m
+java:S3655P"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(î¼£Ü8Œï³ëÉ1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(óÈ‡ï8ï³ëÉ1
+o
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(Çäÿ8‘ï³ëÉ1
+`
+java:S1854A">Remove this useless assignment to local variable "savedState".(–Şà·ıÿÿÿÿ8‘ï³ëÉ1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ãêıúÿÿÿÿ8‘ï³ëÉ1
+Q
+java:S1481A"/Remove this unused "savedState" local variable.(–Şà·ıÿÿÿÿ8’ï³ëÉ1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ˆ‰“ÿúÿÿÿÿ8’ï³ëÉ1
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8’ï³ëÉ1
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(Ï¿8”ï³ëÉ1
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(â÷¸8”ï³ëÉ1
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(”²Åç8”ï³ëÉ1
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(çÿ‚øşÿÿÿÿ8”ï³ëÉ1
+[	java:S106ì"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8™ï³ëÉ1
+[	java:S106î"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8™ï³ëÉ1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8™ï³ëÉ1
+M
+java:S1128	"1Remove this unused import 'java.util.LinkedList'.(»Äğ18™ï³ëÉ1
+L
+java:S1128
+"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8™ï³ëÉ1
+R
+java:S1128"0Remove this unused import 'java.util.Map.Entry'.(±şê¾úÿÿÿÿ8™ï³ëÉ1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8™ï³ëÉ1
+ã
+java:S65411"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 80 to 64, Complexity from 19 to 14, Nesting Level from 5 to 2, Number of Variables from 19 to 6.(Çäÿ8™ï³ëÉ1

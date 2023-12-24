@@ -1,0 +1,26 @@
+
+x
+java:S1104"VMake cardValues a static final constant or non-public and provide accessors if needed.(ˆÉº¢ùÿÿÿÿ8åÉ’ÃÄ1
+n
+java:S1104"QMake cards a static final constant or non-public and provide accessors if needed.(Ë¼ˆÁ8åÉ’ÃÄ1
+l
+java:S1104"OMake bid a static final constant or non-public and provide accessors if needed.(­Æåñ8åÉ’ÃÄ1
+r
+java:S1104!"PMake type a static final constant or non-public and provide accessors if needed.(±§¦şÿÿÿÿ8ÖÛ±ÃÄ1
+R
+java:S1444"0Make this "public static cardValues" field final(ˆÉº¢ùÿÿÿÿ8åÉ’ÃÄ1
+{
+java:S1210]"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ˆèœÏşÿÿÿÿ8¯Ê’ÃÄ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ç¡8³Ê’ÃÄ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÀÍò÷øÿÿÿÿ8³Ê’ÃÄ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹È®°8³Ê’ÃÄ1
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ã¿Æz8³Ê’ÃÄ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷ÿÖö8³Ê’ÃÄ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(àÿÈøıÿÿÿÿ8³Ê’ÃÄ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™Ïêïÿÿÿÿÿ8³Ê’ÃÄ1
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8µÊ’ÃÄ1
+t
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ËñÆŠıÿÿÿÿ8·Ê’ÃÄ1
+X
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8¼Ê’ÃÄ1
