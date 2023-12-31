@@ -9,10 +9,25 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
+/**
+ * For part 2 just created 6 exuations from 3 first points and put them into https://quickmath.com/webMathematica3/quickmath/equations/solve/advanced.jsp
+ 197869613734967 = x + (a-150)*d
+ 292946034245705 = y + (b-5)*d
+ 309220804687650 = z + (c+8)*d
+ 344503265587754 = x + (a+69)*e
+ 394181872935272 = y + (b-11)*e
+ 376338710786779 = z + (c+46)*e
+ 293577250654200 = x + (a+17)*f
+ 176398758803665 = y + (b-101)*f
+ 272206447651388 = z + (c-26)*f
+
+ solution is x+y+z
+ */
+
 public class Main {
 
     public static boolean debug = true;
-    public static boolean part2 = true;
+    public static boolean part2 = false;
     static BigDecimal min = BigDecimal.valueOf(200000000000000L);
     static BigDecimal max = BigDecimal.valueOf(400000000000000L);
     //static BigDecimal min = BigDecimal.valueOf(7L);
