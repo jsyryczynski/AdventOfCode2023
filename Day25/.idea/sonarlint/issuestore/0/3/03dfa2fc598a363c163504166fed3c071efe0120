@@ -1,0 +1,9 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "other".(•øœªüÿÿÿÿ8¶öèİË1
+L
+java:S1481"*Remove this unused "other" local variable.(•øœªüÿÿÿÿ8·öèİË1
+i
+java:S1871"LThis branch's code block is the same as the block for the branch on line 26.(ä¸„õ8·öèİË1
+X
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8¹öèİË1
