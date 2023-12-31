@@ -1,14 +1,0 @@
-
-U	java:S106"9Replace this use of System.out or System.err by a logger.(”Áè 8Ï¨µÃÄ1
-U	java:S106""9Replace this use of System.out or System.err by a logger.(µÉÄ‰8Ï¨µÃÄ1
-Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8Ğ¨µÃÄ1
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ğ¨µÃÄ1
-O
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ğ¨µÃÄ1
-T
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8Ğ¨µÃÄ1
-M
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ğ¨µÃÄ1
-Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ğ¨µÃÄ1
